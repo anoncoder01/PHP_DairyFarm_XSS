@@ -12,6 +12,7 @@ Impact: Cross-Site Scripting (XSS) vulnerability is a serious web security threa
 Image: 
 
 <img width="913" alt="vulnerability1" src="https://github.com/user-attachments/assets/0a2a34a8-fd0f-488f-b526-f47dfd93d953"> <br />
+
 <img width="906" alt="vulnerability2" src="https://github.com/user-attachments/assets/fff3f608-f437-4858-9834-633c04bf7c22">
 
 Proof of Concept: To reproduce this attack, an attacker can inject a script into the Product Name field either while adding new products or editing new products (as shown in the two figures above) under the Product tab of the application. The payload '<script>alert(1)</script>' was successfully accepted, leading to an alert being triggered for the user when the products are being viewed in mange_products.php
