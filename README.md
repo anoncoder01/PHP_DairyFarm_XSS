@@ -5,7 +5,7 @@
 **Title:** Stored Cross Site Scripting (XSS) vulnerability
 
 **Affected Component:** /add_product.php, /edit_product.php
-pname parameter within each of these files is vulnerable to stored Cross-Site Scripting
+<br> pname parameter within each of these files is vulnerable to stored Cross-Site Scripting
 
 **Impact:** Cross-Site Scripting (XSS) vulnerability is a serious web security threat. When attackers execute this type of threat by injecting malicious scripts, it can lead to user data being compromised, their account getting hijacked or even malware getting installed on the host machine.
 
