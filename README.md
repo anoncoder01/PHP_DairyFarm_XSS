@@ -22,4 +22,4 @@
 <img width="907" alt="vulnerability_proof" src="https://github.com/user-attachments/assets/17039174-5e72-4d13-9550-57a086db5f54">
 
 
-**Remediation:** It is important to update Dairy Farm Shop Management System by properly sanitizing code variables and including restricting for special characters so that malicious input such as the one showed in the example cannot be injected.
+**Remediation:** It is important to update Dairy Farm Shop Management System by properly sanitizing code variables and including restrictions for special characters so that malicious input such as the one showed in the example cannot be injected.
