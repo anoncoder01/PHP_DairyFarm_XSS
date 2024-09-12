@@ -1,4 +1,5 @@
 **Affected Web App:** Dairy Farm Shop Management System in PHP
+**Software Link:** [Dairy Farm](https://phpgurukul.com/dairy-farm-shop-management-system-using-php-and-mysql/#google_vignette)
 
 **Version:** v1.1
 
